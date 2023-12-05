@@ -21,7 +21,7 @@
   ⭐️ _Дипломный проект_: в процессе
 
  #### Сертификаты нетологии:
- - [Ручное тестирование веб приложений] (https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/ManualTesting_certificate.pdf)
+ - [Ручное тестирование веб приложений](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/ManualTesting_certificate.pdf)
  - [Git - система контроля версий](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/Git_certificate.pdf)
  - [Java для тестировщиков](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/Java_certificate.pdf)
  - [Автоматизированное тестирование](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/AutomatedTesting_certificate.pdf)
