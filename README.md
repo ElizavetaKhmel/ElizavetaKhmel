@@ -18,4 +18,21 @@
   
   ⭐️ [Командный проект: Java](https://github.com/sharutyunyanqa/Team_project)
   
-  ⭐️ _Дипломный проект_: в работе
+  ⭐️ _Дипломный проект_: в процессе
+
+ #### Сертификаты нетологии:
+ - [Ручное тестирование веб приложений] (https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/ManualTesting_certificate.pdf)
+ - [Git - система контроля версий](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/Git_certificate.pdf)
+ - [Java для тестировщиков](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/Java_certificate.pdf)
+ - [Автоматизированное тестирование](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/AutomatedTesting_certificate.pdf)
+
+### Обо мне
+☎️ Как со мной связаться:
+
+Email: KhKhmel@yandex.ru
+
+[Telegram](https://t.me/khkhkhkhmel)
+
+💼 [Резюме](https://docs.google.com/document/d/1og2J_yGmjhMgyFlOzTQZK5d4jLNfU0slr4eumEj4Aog/edit?usp=sharing)
+
+
