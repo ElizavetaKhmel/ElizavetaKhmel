@@ -29,7 +29,7 @@
 ### Обо мне
 ☎️ Как со мной связаться:
 
-Email: KhKhmel@yandex.ru
+Email: KhmelKh@yandex.ru
 
 [Telegram](https://t.me/khkhkhkhmel)
 
