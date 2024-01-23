@@ -25,7 +25,7 @@
  - [Git - система контроля версий](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/Git_certificate.pdf)
  - [Java для тестировщиков](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/Java_certificate.pdf)
  - [Автоматизированное тестирование](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/AutomatedTesting_certificate.pdf)
- - [Сертификат об окончании обучения]()
+ - [Сертификат об окончании обучения](https://github.com/ElizavetaKhmel/ElizavetaKhmel/blob/main/certificate.pdf)
 
 ### Обо мне
 ☎️ Как со мной связаться:
